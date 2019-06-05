@@ -1,0 +1,84 @@
+@import "utils.css";
+
+html {
+    font-family: 'Lato', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border: 1px solid #A9A9A9;
+}
+
+.container {
+    border: 1px solid #A9A9A9;
+    padding: 25px;
+}
+
+.title {
+    margin-top: 30px;
+}
+
+.title-2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contant__one {
+    line-height: 1.4;
+    font-size: 18px;
+}
+
+.contant__two {
+    margin-top: 25px;
+    line-height: 1.4;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.formula__bg {
+    background-color: #f6f8fa;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+.background__style {
+    background-color: #f6f8fa;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+.one {
+    padding-left: 17px;
+}
+
+.two {
+    padding-left: 39px;
+    line-height: 2;
+}
+
+.three {
+    padding-left: 64px;
+}
+
+.four {
+    padding-left: 39px;
+    line-height: 2;
+}
+
+.five {
+    padding-left: 17px;
+}
+
+.title-3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
